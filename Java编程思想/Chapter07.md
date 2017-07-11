@@ -11,7 +11,7 @@
     实例代码：
     class Boy {
       private String name;  //这里其实就是组合语法的概念了，引入了String类
-      <span class="hljs-keyword">...</span>
+      <span class=<span class="hljs-string">"hljs-keyword"</span>><span class="hljs-keyword">...</span></span>
     }
 
 本小节还提到了类中域的初始化问题。（如上诉实例代码中声明的String）
